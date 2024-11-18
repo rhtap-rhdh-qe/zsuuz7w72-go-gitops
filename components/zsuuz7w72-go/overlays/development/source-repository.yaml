@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zsuuz7w72-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zsuuz7w72-go
